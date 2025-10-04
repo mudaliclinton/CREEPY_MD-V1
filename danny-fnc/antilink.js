@@ -1,5 +1,5 @@
-//-----------------[Created by Danny]----------------------------//
-//------------------[wa.me/dannytech]----------------------// 
+//-----------------[Created by Mudali]----------------------------//
+//------------------[wa.me/mudalitech]----------------------// 
 
 const addAntiLinkGroup = (groupId, _dir) => {
     const obj = { id: groupId, warnCount: 0, enabled: true }; 
