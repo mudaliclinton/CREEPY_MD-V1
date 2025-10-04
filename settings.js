@@ -1,5 +1,5 @@
-//-------------------[Created by Danny]-----------------// 
-//-------------------[contact (me wa.me/dannytech)]----------------------//
+//-------------------[Created by mudali]-----------------// 
+//-------------------[contact (me wa.me/mudalitech)]----------------------//
 
 //-------[import]------//
 const fs = require('fs')
@@ -14,9 +14,9 @@ const chalk = require('chalk')
 global.SESSION_ID = process.env.SESSION_ID || "SESSION_ID_HERE" // session id
 
 
-global.ownernomer = process.env.OWNER_NUMBER || "255697608274"
+global.ownernomer = process.env.OWNER_NUMBER || "25403338485"
 
-global.ownername = process.env.OWNER_NAME || "𝐷𝛥𝛮𝛮𝑌"
+global.ownername = process.env.OWNER_NAME || "Mudali"
 
 
 global.ownernumber = process.env.OWNER_NUMBER2 || '255697608274'  
@@ -65,7 +65,7 @@ global.autoswview = true //auto view status/story
 global.mess = {
     done: "`Bot Creepy Done..!`",
     prem: "`Oh no 😔! This for creepy premium users only...`",
-    admin: "`Only Admins can use this 😩`",
+    admin: "`Only Mudali can use this 😩`",
     botAdmin: "`🤖 I'm not an admin here 🚶`",
     owner: "`You are not my owner 😡`",
     group: "`This is only for groups idiot?🤔`",
